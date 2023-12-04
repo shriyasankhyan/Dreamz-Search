@@ -3,6 +3,7 @@ This is a React Native app designed to search jobs according to your own prefere
 
 ```bash
 git clone  https://github.com/shriyasankhyan/Dreamz-Search.git
+cd Dreamz-Search
 npm install
 npm start
 ```
